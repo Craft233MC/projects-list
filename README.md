@@ -1,1 +1,45 @@
-# projects-list
+# Craft233 项目列表
+
+用于列出Craft233对于已修改的东西或自写的东西的列表，以免在仓库列表中到处寻找
+
+## Foliated Slimefun serise
+- [Slimefun4](https://github.com/Craft233MC/Slimefun4)
+
+- [网络Networks](https://github.com/Craft233MC/Networks)
+
+- [网络扩展NetworksExpansion](https://github.com/Craft233MC/NetworksExpansion)
+
+- [粘液胶SlimeGlue](https://github.com/Craft233MC/SlimeGlue)
+
+- [SlimeHUD](https://github.com/Craft233MC/SlimeHUD)
+
+- [异域花园ExoticGarden](https://github.com/Craft233MC/ExoticGarden)
+
+- [鬼斩前置库GuizhanLibPlugin](https://github.com/Craft233MC/GuizhanLibPlugin)
+
+> 暂时停工
+> 
+> - [粘液战甲SlimeFrame](https://github.com/Craft233MC/SlimeFrame)
+
+## Foliated Lib
+- [guizhanlib](https://github.com/Craft233MC/guizhanlib)
+
+- [dough](https://github.com/Craft233MC/dough)
+
+- [InfinityLib](https://github.com/Craft233MC/InfinityLib)
+
+## 网站类
+- [官网](https://github.com/Craft233MC/website)
+
+- [文档(将废弃)](https://github.com/Craft233MC/docs)
+
+- [文档(新，还未开始)](https://github.com/Craft233MC/documentation)
+
+- [https://github.com/Craft233MC/res](静态资源站)
+
+## 已汉化配置文件(全线废弃)
+- [疯狂附魔CrazyEnchantments](https://github.com/Craft233MC/CrazyEnchantments_config)
+
+- [音乐盒MusicBox](https://github.com/Craft233MC/MusicBox_cn_lang)
+
+- [死亡信息DeathMessages](https://github.com/Craft233MC/DeathMessages_messages)
