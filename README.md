@@ -2,7 +2,10 @@
 
 用于列出Craft233对于已修改的东西或自写的东西的列表，以免在仓库列表中到处寻找
 
-## Foliated Slimefun serise
+所有的更改都以Craft233的需求为第一修改目的，理论上不会额外添加其他功能
+
+## Foliated plugins 
+### Slimefun serise
 - [Slimefun4](https://github.com/Craft233MC/Slimefun4)
 
 - [网络Networks](https://github.com/Craft233MC/Networks)
@@ -17,6 +20,11 @@
 
 - [鬼斩前置库GuizhanLibPlugin](https://github.com/Craft233MC/GuizhanLibPlugin)
 
+### BentoBox series 
+
+- [BentoBox](https://github.com/Craft233MC/BentoBox)
+
+- [AOneBlock](https://github.com/Craft233MC/AOneBlock)
 > 暂时停工
 > 
 > - [粘液战甲SlimeFrame](https://github.com/Craft233MC/SlimeFrame)
