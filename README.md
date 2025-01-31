@@ -20,6 +20,7 @@
 
 - [鬼斩前置库GuizhanLibPlugin](https://github.com/Craft233MC/GuizhanLibPlugin)
 
+- [幸运方块LuckyBlocks](https://github.com/Craft233MC/luckyblocks-sf)
 
 > 暂时停工
 > 
