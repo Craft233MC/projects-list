@@ -20,14 +20,16 @@
 
 - [鬼斩前置库GuizhanLibPlugin](https://github.com/Craft233MC/GuizhanLibPlugin)
 
+
+> 暂时停工
+> 
+> - [粘液战甲SlimeFrame](https://github.com/Craft233MC/SlimeFrame)
+
 ### BentoBox series 
 
 - [BentoBox](https://github.com/Craft233MC/BentoBox)
 
 - [AOneBlock](https://github.com/Craft233MC/AOneBlock)
-> 暂时停工
-> 
-> - [粘液战甲SlimeFrame](https://github.com/Craft233MC/SlimeFrame)
 
 ## Foliated Lib
 - [guizhanlib](https://github.com/Craft233MC/guizhanlib)
