@@ -4,6 +4,11 @@
 
 所有的更改都以Craft233的需求为第一修改目的，理论上不会额外添加其他功能
 
+## Modified plugins
+
+> [Spark](https://github.com/Craft233MC/spark)  
+> - 添加未添加颜色的TPS占位符
+
 ## Foliated plugins 
 ### Slimefun serise
 - [Slimefun4](https://github.com/Craft233MC/Slimefun4)
@@ -38,6 +43,10 @@
 - [dough](https://github.com/Craft233MC/dough)
 
 - [InfinityLib](https://github.com/Craft233MC/InfinityLib)
+
+## Modified papi expension
+> [Server-Expansion](https://github.com/Craft233MC/papi-Srver-Expansion)
+> - 修复Folia上获取TPS:获取全局TPS
 
 ## 网站类
 - [官网](https://github.com/Craft233MC/website)
