@@ -33,9 +33,10 @@
 
 ### BentoBox series 
 
-- [BentoBox](https://github.com/Craft233MC/BentoBox)
-
-- [AOneBlock](https://github.com/Craft233MC/AOneBlock)
+> 不会，停止尝试多线程端
+> - [BentoBox](https://github.com/Craft233MC/BentoBox)
+>
+> - [AOneBlock](https://github.com/Craft233MC/AOneBlock)
 
 ## Foliated Lib
 - [guizhanlib](https://github.com/Craft233MC/guizhanlib)
