@@ -38,6 +38,11 @@
 >
 > - [AOneBlock](https://github.com/Craft233MC/AOneBlock)
 
+### Others
+- [Shop++](https://github.com/Craft233MC/ShopPlusPlus)
+
+- [AdvancedAchievements](https://github.com/Craft233MC/AdvancedAchievements)
+
 ## Foliated Lib
 - [guizhanlib](https://github.com/Craft233MC/guizhanlib)
 
