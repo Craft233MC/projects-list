@@ -9,6 +9,11 @@
 > [Spark](https://github.com/Craft233MC/spark)  
 > - 添加未添加颜色的TPS占位符
 
+## Light系插件
+- [LightSuicide](https://github.com/Craft233MC/LightSuicide)
+
+- [LightChainBreak](https://github.com/Craft233MC/LightChainBreak)
+
 ## Foliated plugins 
 ### Slimefun serise
 - [Slimefun4](https://github.com/Craft233MC/Slimefun4)
@@ -57,11 +62,12 @@
 ## 网站类
 - [官网](https://github.com/Craft233MC/website)
 
-- [文档(将废弃)](https://github.com/Craft233MC/docs)
-
-- [文档(新，还未开始)](https://github.com/Craft233MC/documentation)
+- [文档](https://github.com/Craft233MC/documentation)
 
 - [https://github.com/Craft233MC/res](静态资源站)
+
+- [文档(旧，废弃)](https://github.com/Craft233MC/docs)
+
 
 ## 已汉化配置文件(全线废弃)
 - [疯狂附魔CrazyEnchantments](https://github.com/Craft233MC/CrazyEnchantments_config)
