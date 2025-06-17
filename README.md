@@ -32,6 +32,12 @@
 
 - [幸运方块LuckyBlocks](https://github.com/Craft233MC/luckyblocks-sf)
 
+- [炼金术自传](https://github.com/Craft233MC/AlchimiaVitae)
+
+- [美食家](https://github.com/Craft233MC/Gastronomicon)
+
+- [鸡因工程](https://github.com/Craft233MC/GeneticChickengineering-CN-RC30-Extended)
+
 > 暂时停工
 > 
 > - [粘液战甲SlimeFrame](https://github.com/Craft233MC/SlimeFrame)
